@@ -9,6 +9,7 @@ class Cat:
 
 ella = Cat("Ella")
 ella.speak()
+print(ella)
 
 class Dog:
     """a dog"""
